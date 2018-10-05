@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1538768355 source:c:\users\pc\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"basicFunctions.h"
+
+1537216684 c:\users\pc\desktop\tp2\funciones.h
+
+1538768612 c:\users\pc\desktop\tp2\arrayemployees.h
+
+1538769967 source:c:\users\pc\desktop\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"basicFunctions.h"
+
+1538768612 c:\users\pc\desktop\tp2\basicfunctions.h
+
+1538768650 source:c:\users\pc\desktop\tp2\basicfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"basicFunctions.h"
+
